@@ -10,10 +10,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=puterinurulsyahirah&show_icons=true&locale=en&layout=compact" alt="puterinurulsyahirah" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=puterinurulsyahirah&show_icons=true&locale=en" alt="puterinurulsyahirah" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=puterinurulsyahirah&" alt="puterinurulsyahirah" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=puterinurulsyahirah&show_icons=true&locale=en&layout=compact" alt="puterinurulsyahirah" /></p>
