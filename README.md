@@ -1,4 +1,7 @@
 <h1 align="center">Hi, there ! I'm Syahirah 👋🏼</h1>
+<div align="center">
+  <img src="https://github.com/puterinurulsyahirah/syahirah/blob/master/images/header.gif" alt="header"/>
+</div>
 <h3 align="center">A passionate first year student of Bachelor of Computer Science ( Graphic & Multimedia Software ) With Honours from UTM, Skudai, Johor</h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=100&center=true&vCenter=true&random=false&width=435&lines=Computer+Graphic's+student+here+!+)](https://git.io/typing-svg)
@@ -29,7 +32,7 @@
 </div>
 
 # 💡 SECP1513-07 :
-📌 ASSIGNMENT 1 : [REPORT ON VISIT TO NALI 2023] (https://github.com/puterinurulsyahirah/SECP1513/blob/main/NALI2023.pdf)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=puterinurulsyahirah&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
