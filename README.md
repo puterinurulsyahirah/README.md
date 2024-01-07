@@ -6,7 +6,7 @@
 # 💫 About Me :
 🔭 I'm currently learning C++
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flottiefiles.com%2Fanimations%2Fgirl-on-computer-with-idea-vKx1wtZe5l&psig=AOvVaw3gL3SMGHT2EqKGlDXbas_Y&ust=1704719121859000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJCxnOary4MDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="file:///C:/Users/LENOVO/Downloads/UTSEH078Aw.gif">
 
 # 💻 Tech Stack :
 <div align="left">
