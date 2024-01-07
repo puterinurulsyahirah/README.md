@@ -35,6 +35,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=puterinurulsyahirah&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=puterinurulsyahirah&theme=dark&hide_border=false)<br/>
 
+![snake gif](https://github.com/puterinurulsyahirah/puterinurulsyhairah/blob/output/github-contribution-grid-snake.gif)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
