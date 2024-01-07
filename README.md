@@ -1,6 +1,8 @@
 <h1 align="center">Hi, there ! I'm Syahirah 👋🏼</h1>
 <h3 align="center">A passionate first year student of Bachelor of Computer Science ( Graphic & Multimedia Software ) With Honours from UTM, Skudai, Johor</h3>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=100&center=true&vCenter=true&random=false&width=435&lines=A+passionate+first+year+student+of;Bachelor+of+Computer+Science;(+Graphic+%26+Multimedia+Software+);+With+Honour;rom+UTM%2C+Skudai%2C+Johor)](https://git.io/typing-svg)
+
 # 💫 About Me :
 🔭 I'm currently learning C++
 
