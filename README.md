@@ -1,7 +1,4 @@
 <h1 align="center">Hi, there ! I'm Syahirah 👋🏼</h1>
-<div align="center">
-  <img src="https://github.com/puterinurulsyahirah/syahirah/blob/master/images/header.gif" alt="header"/>
-</div>
 <h3 align="center">A passionate first year student of Bachelor of Computer Science ( Graphic & Multimedia Software ) With Honours from UTM, Skudai, Johor</h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=100&center=true&vCenter=true&random=false&width=435&lines=Computer+Graphic's+student+here+!+)](https://git.io/typing-svg)
