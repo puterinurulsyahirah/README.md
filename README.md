@@ -28,6 +28,9 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
 </div>
 
+# 💡 SECP1513-07 :
+📌 ASSIGNMENT 1 : [REPORT ON VISIT TO NALI 2023] (https://github.com/puterinurulsyahirah/SECP1513/blob/main/NALI2023.pdf)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=puterinurulsyahirah&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=puterinurulsyahirah&theme=dark&hide_border=false)<br/>
