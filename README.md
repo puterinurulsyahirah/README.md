@@ -6,7 +6,7 @@
 # 💫 About Me :
 🔭 I'm currently learning C++
 
-<img align="right" alt="coding" width="400" src="file:///C:/Users/LENOVO/Downloads/UTSEH078Aw.gif">
+<img align="right" alt="coding" width="400" src="https://tenor.com/en-GB/view/text-work-computer-working-penguin-gif-16760829579653810809">
 
 # 💻 Tech Stack :
 <div align="left">
