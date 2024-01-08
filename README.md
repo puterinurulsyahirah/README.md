@@ -46,6 +46,7 @@
 </div>
 
 # 💡 SECP1513-07 :
+<h3 align="left">![profile](https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/README.md)</h3>
 
 
 # <img height="50" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Bar.webp"/> GitHub Stats :
