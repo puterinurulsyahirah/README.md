@@ -6,14 +6,14 @@
   
 </div>
 
-# 💫 About Me :
+# <img height="35" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Hi.gif"/> About Me :
 <h3 align="center">A passionate first year student of Bachelor of Computer Science ( Graphic & Multimedia Software ) With Honours from UTM, Skudai, Johor</h3>
 <h3 align="left">🔭 Currenty learning C++</h3>
 <h3 align="left">🎒 Learned Java during matriculation</h3>
 <h3 align="left">🤩 Interested in learning new computer languages</h3>
 <img align="right" height="400" width="400" alt="coding" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Coding%20Gif.gif"/>
 
-# 💻 Tech Stack :
+# <img height="35" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Robot.gif"/> Tech Stack :
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
@@ -24,7 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 
-# 📱 Social Media :
+# <img height="35" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Social%20Media.webp"/> Social Media :
 <div align="left">
   <a href="puterinurulsyahirah@graduate.utm.my" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
@@ -42,13 +42,13 @@
 # 💡 SECP1513-07 :
 
 
-# 📊 GitHub Stats:
+# <img height="35" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Chart.gif"/> GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=puterinurulsyahirah&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=puterinurulsyahirah&theme=dark&hide_border=false)<br/>
 
 ![snake gif](https://github.com/puterinurulsyahirah/puterinurulsyhairah/blob/output/github-contribution-grid-snake.gif)
 
-### ✍️ Random Dev Quote
+### <img height="35" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Write.gif"/> Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 [![](https://visitcount.itsvg.in/api?id=puterinurulsyahirah&icon=0&color=0)](https://visitcount.itsvg.in)
