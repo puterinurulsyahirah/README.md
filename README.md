@@ -42,13 +42,13 @@
 # 💡 SECP1513-07 :
 
 
-# <img height="35" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Chart.gif"/> GitHub Stats:
+# <img height="35" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Chart.gif"/> GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=puterinurulsyahirah&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=puterinurulsyahirah&theme=dark&hide_border=false)<br/>
 
 ![snake gif](https://github.com/puterinurulsyahirah/puterinurulsyhairah/blob/output/github-contribution-grid-snake.gif)
 
-### <img height="35" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Write.gif"/> Random Dev Quote
+### 📝 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 [![](https://visitcount.itsvg.in/api?id=puterinurulsyahirah&icon=0&color=0)](https://visitcount.itsvg.in)
