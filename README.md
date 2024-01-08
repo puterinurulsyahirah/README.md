@@ -1,15 +1,17 @@
-<h1 align="center">Hi, there ! I'm Syahirah 👋🏼</h1>
-
-![video](https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Game%20On.mp4)
-
-<h3 align="center">A passionate first year student of Bachelor of Computer Science ( Graphic & Multimedia Software ) With Honours from UTM, Skudai, Johor</h3>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=100&center=true&vCenter=true&random=false&width=435&lines=Computer+Graphic's+student+here+!+)](https://git.io/typing-svg)
+<div align="center">
+  
+  <img alt="GIF" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/HI%2C%20THERE%20%F0%9F%91%8B%F0%9F%8F%BC.gif"/>
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=100&center=true&vCenter=true&random=false&width=435&lines=Computer+Graphic's+student+here+!+)](https://git.io/typing-svg)
+  
+</div>
 
 # 💫 About Me :
-🔭 I'm currently learning C++
-
-<img align="right" alt="coding" width="400" src="https://tenor.com/en-GB/view/text-work-computer-working-penguin-gif-16760829579653810809">
+<h3 align="center">A passionate first year student of Bachelor of Computer Science ( Graphic & Multimedia Software ) With Honours from UTM, Skudai, Johor</h3>
+<h3 align="left">🔭 Currenty learning C++</h3>
+<h3 align="left">🎒 Learned Java during matriculation</h3>
+<h3 align="left">🤩 Interested in learning new computer languages</h3>
+<img align="right" alt="coding" width="400" src="https://tenor.com/en-GB/view/text-work-computer-working-penguin-gif-16760829579653810809"/>
 
 # 💻 Tech Stack :
 <div align="left">
