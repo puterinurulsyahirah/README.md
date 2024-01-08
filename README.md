@@ -1,19 +1,23 @@
 <div align="center">
   
-  <img alt="GIF" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/HI%2C%20THERE%20%F0%9F%91%8B%F0%9F%8F%BC.gif"/>
+  <img src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Header.gif"/>
+
+  <h3>  </h3>
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=100&center=true&vCenter=true&random=false&width=435&lines=Computer+Graphic's+student+here+!+)](https://git.io/typing-svg)
   
 </div>
 
-# <img height="35" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Hi.gif"/> About Me :
+# <img height="50" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Hello.gif"/> About Me :
 <h3 align="center">A passionate first year student of Bachelor of Computer Science ( Graphic & Multimedia Software ) With Honours from UTM, Skudai, Johor</h3>
+
+<img align="right" height="400" width="400" alt="coding" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Coding.gif"/>
+
 <h3 align="left">🔭 Currenty learning C++</h3>
 <h3 align="left">🎒 Learned Java during matriculation</h3>
 <h3 align="left">🤩 Interested in learning new computer languages</h3>
-<img align="right" height="400" width="400" alt="coding" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Coding%20Gif.gif"/>
 
-# <img height="35" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Robot.gif"/> Tech Stack :
+# <img height="50" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Robots.gif"/> Tech Stack :
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
@@ -24,7 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 
-# <img height="35" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Social%20Media.webp"/> Social Media :
+# <img height="50" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Phone.webp"/> Social Media :
 <div align="left">
   <a href="puterinurulsyahirah@graduate.utm.my" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
@@ -42,13 +46,11 @@
 # 💡 SECP1513-07 :
 
 
-# <img height="35" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Chart.gif"/> GitHub Stats :
+# <img height="50" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Bar.webp"/> GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=puterinurulsyahirah&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=puterinurulsyahirah&theme=dark&hide_border=false)<br/>
 
-![snake gif](https://github.com/puterinurulsyahirah/puterinurulsyhairah/blob/output/github-contribution-grid-snake.gif)
-
-### 📝 Random Dev Quote
+### <img height="35" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Pencil.gif"/> Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 [![](https://visitcount.itsvg.in/api?id=puterinurulsyahirah&icon=0&color=0)](https://visitcount.itsvg.in)
