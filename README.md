@@ -11,11 +11,13 @@
 # <img height="50" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Hello.gif"/> About Me :
 <h3 align="center">A passionate first year student of Bachelor of Computer Science ( Graphic & Multimedia Software ) With Honours from UTM, Skudai, Johor</h3>
 
-<img align="right" height="400" width="400" alt="coding" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Coding.gif"/>
+<img align="right" height="500" width="500" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Coding.gif"/>
 
+<h3 align="left">🌍 I'm based in Johor, Malaysia</h3>
 <h3 align="left">🔭 Currenty learning C++</h3>
-<h3 align="left">🎒 Learned Java during matriculation</h3>
+<h3 align="left">🧠 Learned Java during matriculation</h3>
 <h3 align="left">🤩 Interested in learning new computer languages</h3>
+<h3 align="left">⚡ Fun Fact : I'm left-handed !</h3>
 
 # <img height="50" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Robots.gif"/> Tech Stack :
 <div align="left">
