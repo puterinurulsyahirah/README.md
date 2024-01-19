@@ -47,30 +47,47 @@
 
 # <img height="50" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Books.gif"/> Education Background :
 <h3>UNIVERSITI TEKNOLOGI MALAYSIA ( UTM )</h3>
-<h3>📍 Oct 2023 - Now</h3>
-<h3>📍 Bachelor of Computer Science ( Graphics & Multimedia Software ) With Honours</h3>
-<h3>📍 Currently in Semester 1 ( Year 1 )</h3>
-<h3>📍 Address : Universiti Teknologi Malaysia, Jalan Iman, 81310, Skudai, Johor</h3>
-<br>
+
+📍 Oct 2023 - Now
+
+📍 Bachelor of Computer Science ( Graphics & Multimedia Software ) With Honours
+
+📍 Currently in Semester 1 ( Year 1 )
+
+📍 Address : Universiti Teknologi Malaysia, Jalan Iman, 81310, Skudai, Johor
+
 <h3>KOLEJ MATRIKULASI JOHOR ( KMJ )</h3>
-<h3>📍 July 2022 - May 2023</h3>
-<h3>📍 Science Stream - Physical Science</h3>
-<h3>📍 Award in Peperiksaan Semester Program Matrikulasi ( PSPM ) 2022 / 2023 : 4.00</h3>
-<h3>📍 Malaysian University English Test ( MUET ) 2022 : Band 4.5</h3>
-<h3>📍 Address : Kolej Matrikulasi Johor, Kampung Paya Mas, 84900, Tangkak, Johor</h3>
-<br>
+
+📍 July 2022 - May 2023
+
+📍 Science Stream - Physical Science
+
+📍 Award in Peperiksaan Semester Program Matrikulasi ( PSPM ) 2022 / 2023 : 4.00
+
+📍 Malaysian University English Test ( MUET ) 2022 : Band 4.5
+
+📍 Address : Kolej Matrikulasi Johor, Kampung Paya Mas, 84900, Tangkak, Johor
+
 <h3>SMK TAMAN NUSA DAMAI ( STAND )</h3>
-<h3>📍 Jan 2017 - Mar 2022</h3>
-<h3>📍 Science Stream - Pure Science</h3>
-<h3>📍 International Language - Japanese Language</h3>
-<h3>📍 Ujian Penilaian Bahasa Antarangsa ( UPBA ) 2021 : B</h3>
-<h3>📍 Award in Sijil Pelajaran Malaysia ( SPM ) 2021 : 3A+ 2A 3A- 1B+</h3>
-<h3>📍 Award in Pentaksiran Tingkatan 3 ( PT3 ) 2019 : 8A 1C</h3>
-<h3>📍 Address : SMK Taman Nusa Damai, Jalan Damai Utama, Taman Nusa Damai, 81700, Pasir Gudang, Johor</h3>
+
+📍 Jan 2017 - Mar 2022
+
+📍 Science Stream - Pure Science
+
+📍 International Language - Japanese Language
+
+📍 Ujian Penilaian Bahasa Antarangsa ( UPBA ) 2021 : B
+
+📍 Award in Sijil Pelajaran Malaysia ( SPM ) 2021 : 3A+ 2A 3A- 1B+
+
+📍 Award in Pentaksiran Tingkatan 3 ( PT3 ) 2019 : 8A 1C
+
+📍 Address : SMK Taman Nusa Damai, Jalan Damai Utama, Taman Nusa Damai, 81700, Pasir Gudang, Johor
 
 # <img height="50" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Blub.gif"/> Extracurricular Activities :
-<h3>Here are some of extracurricular activities that I joined throughout my studies !</h3>
-<br>
+
+Here are some of extracurricular activities that I joined throughout my studies !
+
 <h3>UNIVERSITI TEKNOLOGI MALAYSIA ( UTM )</h3>
 
 | ACTIVITY | POSITION | AWARD | DATE | CERTIFICATE |
@@ -102,6 +119,42 @@
 | Persatuan Puteri Islam Malaysia ( PPIM ) | Secretary | - | 2019 |  |
 | Majlis Sambutan Lawatan Nihon UNiversity & Secondary High School Japan | Crew of Activity Unit | - | 18 Oct 2018 |  |
 | Majlis Sambutan Lawatan Okayama Sozan High School Japan | Crew of Activity Unit | - | 21 June 2018 |  |
+
+# <img height="50" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Gear.gif"/> Skills :
+
+## Soft-Skills :
+
+### Problem-Solving
+
+Problem-solving is one of the most crucial soft skills needed by a programmer. Throughout my studies, I joined lots of activities to gain experience and improve my problem-solving skills as well as my critical thinking skills, which are highly important in solving real-life problems. For example, I once joined a programming competition using the Java language during matriculation. Through the competition, I learned how to break down complex problems into small pieces of work. I also learned how to solve the given problem creatively using a simple yet effective solution.
+
+In the future, I wish to participate in more programming competitions in various programming languages, such as C++, which I learned this semester. By taking this initiative, I believe that I could enhance my problem-solving skills, which are important in facing real-time situations in my future career. In addition, I could also improve my understanding of lots of programming languages by learning how to solve problems using them during each competition. In short, problem-solving skills are significant for being able to think outside the box to solve problems.
+
+### Attention To Detail
+
+Attention to detail is also one of the key skills that are sought by employers when recruiting a programmer. Throughout my studies, I also joined activities to boost my focus so I could pay 100% attention to details when doing work, especially coding. For instance, I once joined a hydraulic rocket competition during matriculation. Through the competition, I learned the importance of every small detail of the rocket and how each of those small details would have a big impact on the whole operation of the rocket.
+
+This situation is also related to coding. For example, each line of code has small details like a single punctuation that could turn the whole programme into a different purpose, or in the worst-case scenario, lots of syntax errors, which are nightmares for programmers. Attention to detail skills not only could prevent this problem but also help in producing a more neat and smoother system, as small mistakes that are ignored could turn into a big, massive problem that is harder to solve.
+
+### Communication
+
+Communication is also a paramount skill needed as a programmer. Throughout my studies, I also took part as a crew in some programmes held by schools, colleges, and universities. For example, I was one of the activity crews of Majlis Sambutan Lawatan Okayama Sozan High School, Japan, as well as Nihon University and Secondary High School, Japan, during secondary school. Through both experiences, I learned how to effectively communicate with students from Japan, even with a high language barrier, by handling the programme two years in a row.
+
+In the future, I wish to participate more as a crew in programmes that will be held by the university throughout my degree journey. I believe that communication skills are important in my future career, as I will definitely work with other people and in a team in the future. Besides, these skills were significant not only to help boost my teamwork skills but also to help me learn how to deliver information effectively to other people using the best approach based on different situations.
+
+## Hard-Skills :
+
+### Data Structures & Algorithms
+
+Data structures and algorithms skills are crucial for a programmer. Throughout my studies, I learned how data structures and algorithms play a significant role in my day-to-day work in this field. This is because these skills are highly used when considering the best approach for given problems, which includes the best data structures and algorithms.
+
+For instance, I learned how I could use data structures like arrays to store data of the same type rather than lots of different variables. This approach not only makes the code simpler but also saves the memory of the compiler. Besides, I also learned how I need to make my algorithm clear and easy to understand by non-programmer.
+
+### Object-Oriented Programming ( OOP ) Languages
+
+Object-oriented programming ( OOP ) languages are also one of the key skills as a programmer. During matriculation, I was exposed to one of the OOP languages, which is Java in the Computer Science subject. This was the first OPP language that I learned, which sparked my interest in learning as many programming languages as possible throughout my studies.
+
+During my current semester of degree, I also exposed to other OOP languages, which is C++ in the Programming Technique 1 course. With the basic OOP languages that I got during matriculation, it was easier to learn and understand how C++ works. In the future, I wish to equip myself with other OOP languages like Phyton as well as markup languages like HTML and CSS, which are mainly used in web development.
 
 # 💡 SECP1513-07 :
 ### 📍 [Report on Industrial Visit 1 ( NALI 2023 )](https://github.com/puterinurulsyahirah/SECP1513/blob/main/NALI2023.pdf)
