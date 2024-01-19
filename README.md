@@ -75,33 +75,33 @@
 
 | ACTIVITY | POSITION | AWARD | DATE | CERTIFICATE |
 |---|---|---|---|---|
-| Computer Graphics Multimedia Association ( CGMA ) | Member | - | 2023 - Now |
-| Persatuan Mahasiswa Sains Komputer ( PERSAKA ) | Member | - | 2023 - Now |
-| Kelab Fotokreatif ( KFK ) | Member | - | 2023 - Now |
-| Sukan Sains Komputer 2023 ( SUSKOM'23 ) | Crew of Multimedia & Publicity Unit | - | 21 - 23 Dec 2023 |
-| Excel Workshop'23 | Participant | - | 12 Dec 2023 |
+| Computer Graphics Multimedia Association ( CGMA ) | Member | - | 2023 - Now | - |
+| Persatuan Mahasiswa Sains Komputer ( PERSAKA ) | Member | - | 2023 - Now | - |
+| Kelab Fotokreatif ( KFK ) | Member | - | 2023 - Now | - |
+| Sukan Sains Komputer 2023 ( SUSKOM'23 ) | Crew of Multimedia & Publicity Unit | - | 21 - 23 Dec 2023 | - |
+| Excel Workshop'23 | Participant | - | 12 Dec 2023 | [Excel Workshop'23](https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/EXCEL%20WORKSHOP'23.png) |
 
 <h3>KOLEJ MATRIKULASI JOHOR ( KMJ )</h3>
 
 | ACTIVITY | POSITION | AWARD | DATE | CERTIFICATE |
 |---|---|---|---|---|
-| Kelab Fizik KMJ | Member | - | 2022 - 2023 |
-| Kelab Filem Kokurikulum : Dokumentasi | Script Writer | - | 2023 |
-| KMJ Innovation Expo | Presenter | Silver Award | 18 Mar 2023 |
-| KMJava Programming Competition | Participant | Third Place | 23 Feb 2023 |
-| Pertandingan Roket Hidraulik 2023 | Participant | Second Place | 23 Feb 2023 |
-| International STEM & Innovation Coloquia Series-10 | Participant | - | 22 Feb 2023 |
-| Program Qiamullail | Crew of Documentation & Report | - | 15 Oct 2022 |
+| Kelab Fizik KMJ | Member | - | 2022 - 2023 | - |
+| Kelab Filem Kokurikulum : Dokumentasi | Script Writer | - | 2023 | - |
+| KMJ Innovation Expo | Presenter | Silver Award | 18 Mar 2023 | [KIE 2023](https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/KMJ%20INNOVATION%20EXPO%202023.png) |
+| KMJava Programming Competition | Participant | Third Place | 23 Feb 2023 | - |
+| Pertandingan Roket Hidraulik 2023 | Participant | Second Place | 23 Feb 2023 | [Roket Hidraulik](https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/PERTANDINGAN%20ROKET%20HIDRAULIK%202023.png) |
+| International STEM & Innovation Coloquia Series-10 | Participant | - | 22 Feb 2023 | [Colloquia Series](https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/STEM%20%26%20INNOVATION%20COLLOQUIA%20SERIES-10.png) |
+| Program Qiamullail | Crew of Documentation & Report | - | 15 Oct 2022 | - |
 
 <h3>SMK TAMAN NUSA DAMAI ( STAND )</h3>
 
-| ACTIVITY | POSITION | AWARD | DATE |
-|---|---|---|---|
-| Kelab STEM STAND | Secretary | - | 2021 |
-| Pameran PBL Karnival STEM-J | Presenter | - | 2020 |
-| Persatuan Puteri Islam Malaysia ( PPIM ) | Secretary | - | 2019 |
-| Majlis Sambutan Lawatan Nihon UNiversity & Secondary High School Japan | Crew of Activity Unit | - | 18 Oct 2018 |
-| Majlis Sambutan Lawatan Okayama Sozan High School Japan | Crew of Activity Unit | - | 21 June 2018 |
+| ACTIVITY | POSITION | AWARD | DATE | CERTIFICATE |
+|---|---|---|---|---|
+| Kelab STEM STAND | Secretary | - | 2021 |  |
+| Pameran PBL Karnival STEM-J | Presenter | - | 2020 |  |
+| Persatuan Puteri Islam Malaysia ( PPIM ) | Secretary | - | 2019 |  |
+| Majlis Sambutan Lawatan Nihon UNiversity & Secondary High School Japan | Crew of Activity Unit | - | 18 Oct 2018 |  |
+| Majlis Sambutan Lawatan Okayama Sozan High School Japan | Crew of Activity Unit | - | 21 June 2018 |  |
 
 # 💡 SECP1513-07 :
 ### 📍 [Report on Industrial Visit 1 ( NALI 2023 )](https://github.com/puterinurulsyahirah/SECP1513/blob/main/NALI2023.pdf)
