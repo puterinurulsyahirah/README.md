@@ -66,7 +66,7 @@
 <h3>📍 Ujian Penilaian Bahasa Antarangsa ( UPBA ) 2021 : B</h3>
 <h3>📍 Award in Sijil Pelajaran Malaysia ( SPM ) 2021 : 3A+ 2A 3A- 1B+</h3>
 <h3>📍 Award in Pentaksiran Tingkatan 3 ( PT3 ) 2019 : 8A 1C</h3>
-<h3>📍 Address : SK Seri Alam 2, Jalan Suria 47, Bandar Baru Seri Alam, 81750, Masai, Johor</h3>
+<h3>📍 Address : SMK Taman Nusa Damai, Jalan Damai Utama, Taman Nusa Damai, 81700, Pasir Gudang, Johor</h3>
 
 # <img height="50" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Blub.gif"/> Extracurricular Activities :
 <h3>Here are some of extracurricular activities that I joined throughout my studies !</h3>
