@@ -130,11 +130,15 @@ Problem-solving is one of the most crucial soft skills needed by a programmer. T
 
 In the future, I wish to participate in more programming competitions in various programming languages, such as C++, which I learned this semester. By taking this initiative, I believe that I could enhance my problem-solving skills, which are important in facing real-time situations in my future career. In addition, I could also improve my understanding of lots of programming languages by learning how to solve problems using them during each competition. In short, problem-solving skills are significant for being able to think outside the box to solve problems.
 
+<br>
+
 ### ⭐ Attention To Detail
 
 Attention to detail is also one of the key skills that are sought by employers when recruiting a programmer. Throughout my studies, I also joined activities to boost my focus so I could pay 100% attention to details when doing work, especially coding. For instance, I once joined a hydraulic rocket competition during matriculation. Through the competition, I learned the importance of every small detail of the rocket and how each of those small details would have a big impact on the whole operation of the rocket.
 
 This situation is also related to coding. For example, each line of code has small details like a single punctuation that could turn the whole programme into a different purpose, or in the worst-case scenario, lots of syntax errors, which are nightmares for programmers. Attention to detail skills not only could prevent this problem but also help in producing a more neat and smoother system, as small mistakes that are ignored could turn into a big, massive problem that is harder to solve.
+
+<br>
 
 ### ⭐ Communication
 
@@ -149,6 +153,8 @@ In the future, I wish to participate more as a crew in programmes that will be h
 Data structures and algorithms skills are crucial for a programmer. Throughout my studies, I learned how data structures and algorithms play a significant role in my day-to-day work in this field. This is because these skills are highly used when considering the best approach for given problems, which includes the best data structures and algorithms.
 
 For instance, I learned how I could use data structures like arrays to store data of the same type rather than lots of different variables. This approach not only makes the code simpler but also saves the memory of the compiler. Besides, I also learned how I need to make my algorithm clear and easy to understand by non-programmer.
+
+<br>
 
 ### ⭐ Object-Oriented Programming ( OOP ) Languages
 
