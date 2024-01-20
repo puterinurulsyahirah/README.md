@@ -159,14 +159,31 @@ During the industrial talk by Charity Techworks Sdn Bhd, I was exposed to variou
 
 ### 📌 [Video on Industrial Visit 2 ( UTM Digital )](https://www.youtube.com/watch?v=3FbHJD4fgBo)
 
+<div align="center">
+  <img height="350"msrc="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/UTM%20Digital.gif"/>
+</div>
+
+<br>
+
 During my visit to UTM Digital and the virtual talk I attended about UTM Digital, I learned a lot of new things about the structure of UTM Digital and its role in UTM. One of the benefits of the visit and talk was that I could learn about two main platforms that are provided by UTM Digital. These two platforms can be accessed by all students using their UTM ID and password. The first one is myUtmPortal which is a website that has all the things we may need to access as students. It includes financial status, course credit and activities joined, course registration information, and much more. The second one is UTMSmart Mobile Application, which can be installed from the Google Play Store or the Apple App Store. This is an easy-to-access app that is used every day by students because it has features like QR attendance scanner and shuttle bus schedules, as well as some features on the website like financial status. From the visit, I also learned how I can use my UTM ID to access other things, such as the Microsoft 365 Suite. Besides, during the visit to the UTM Data Centre, I learned that they are secured using a firewall and 24 / 7 monitoring to ensure the safety of all personal and private data that is kept there. Visitors are also prohibited from bringing their electronic devices inside to prevent any information leakage from happening. During the visit and talk, it also had an impact on the course outcome due to how I could see UTM Digital's significant role in maintaining good technology access and use for improving the learning and security systems at UTM. The visit and talk also developed my interest in acknowledging and learning about new technologies to keep in line with them, so I could use it to the fullest. In short, the industrial visit provided us with a thorough understanding of why we have to keep up with the newest technology for a better future career in the technology field. This is important because when we have strong and high technology knowledge, we could be more creative in finding ways to solve problems using numerous technology facilities.
 
 ### 📌 [Report on Industrial Talk 2 ( Credence @ TM Subsidiary )](https://github.com/puterinurulsyahirah/SECP1513-07/blob/main/INDUSTRIAL%20TALK%202.pdf)
+
+<div align="center">
+  <img height="350"msrc="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Credence.gif"/>
+</div>
+
+<br>
 
 During the industrial talk by Credence ( TM Subsidiary ), I was exposed to lots of new information about analytics and different jobs offered regarding analytics. The talk was given by Ms. Qistina Batrisyia Binti Azman Shah, a professional AI operator for the company. From the talk, I can see a clearer picture of how I will be a good system developer in the next four years. I was exposed to countless pieces of knowledge regarding system developers and what parts I need to work on to become one in the future. In the mean time, I need to keep learning and mastering lots of programming languages. For instance, I need to equip myself with Phyton, HTML, and many other programming languages that are mainly used by system developers. Besides, I also have to engage with the technologies and tools used as a system developer. For instance, database / OLAP technologies like Druid and PostgreSQL, visualisation tools like Metabase and Superset, and other ETL / ELT tools. In addition, I also need to work on soft skills such as communication skills, real-life problem-solving skills, and many more. These skills are significant as a future system developer as I will have to work with other people and in a team to produce the best solution for each given problem. In short, the industrial talk provided us with a thorough understanding of why continuous learning and development in all these skills are highly crucial to ensuring that I could be a professional system developer in the next four years.
 
 ### 📌 [PC Assemble ( Lab )](https://github.com/puterinurulsyahirah/SECP1513-07/blob/main/PC%20ASSEMBLE.png)
 
+<div align="center">
+  <img height="350"msrc="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/PC%20Assemble.gif"/>
+</div>
+
+<br>
 
 # <img height="50" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Bar.webp"/> GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=puterinurulsyahirah&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
