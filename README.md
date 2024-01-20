@@ -156,7 +156,7 @@ During my visit to New Academia Learning Innovation ( NALI ) 2023, I interviewed
 ### 📌 [Poster on Industrial Talk 1 ( Charity Techworks SDN BHD )](https://github.com/puterinurulsyahirah/SECP1513/blob/main/INDUSTRIAL%20TALK%201.pdf)
 
 <div align="center">
-  <img height="350"msrc="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Charity%20Techworks.gif"/>
+  <img height="350" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Charity%20Techworks.gif"/>
 </div>
 
 <br>
@@ -166,7 +166,7 @@ During the industrial talk by Charity Techworks Sdn Bhd, I was exposed to variou
 ### 📌 [Video on Industrial Visit 2 ( UTM Digital )](https://www.youtube.com/watch?v=3FbHJD4fgBo)
 
 <div align="center">
-  <img height="350"msrc="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/UTM%20Digital.gif"/>
+  <img height="350" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/UTM%20Digital.gif"/>
 </div>
 
 <br>
@@ -176,7 +176,7 @@ During my visit to UTM Digital and the virtual talk I attended about UTM Digital
 ### 📌 [Report on Industrial Talk 2 ( Credence @ TM Subsidiary )](https://github.com/puterinurulsyahirah/SECP1513-07/blob/main/INDUSTRIAL%20TALK%202.pdf)
 
 <div align="center">
-  <img height="350"msrc="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Credence.gif"/>
+  <img height="350" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Credence.gif"/>
 </div>
 
 <br>
@@ -186,7 +186,7 @@ During the industrial talk by Credence ( TM Subsidiary ), I was exposed to lots 
 ### 📌 [PC Assemble ( Lab )](https://github.com/puterinurulsyahirah/SECP1513-07/blob/main/PC%20ASSEMBLE.png)
 
 <div align="center">
-  <img height="350"msrc="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/PC%20Assemble.gif"/>
+  <img height="350" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/PC%20Assemble.gif"/>
 </div>
 
 <br>
