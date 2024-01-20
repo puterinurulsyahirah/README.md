@@ -151,6 +151,12 @@ Here are the lists of assignments for Technology And Information System ( SECP15
 
 ### 📌 [Report on Industrial Visit 1 ( NALI 2023 )](https://github.com/puterinurulsyahirah/SECP1513/blob/main/NALI2023.pdf)
 
+<div align="center">
+  <img height="350" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/NALI%202023.gif"/>
+</div>
+
+<br>
+
 During my visit to New Academia Learning Innovation ( NALI ) 2023, I interviewed one of the participants, who presented a poster with the title, Programming Resilience Skills Through Competition-Based Learning Using Mobile Robots In Real-Time Software Engineering Course. From the interview session with a software engineering's master's student in charge of the poster, I gathered lots of information about their idea, including what makes their work different and why they wish to implement it more due to its benefits to students. With the target audience of software engineering students, this activity offers a fun way to develop programming resilience skills for them. It involved timing analysis that is mainly used in the mobile robot's operation system and is highly focused on their course. With this approach, students are taught to implement real-life concepts and theories to solve problems using robot software. In addition, this innovation also allows students' programming resilience's level to be identified and polished for real-world contexts as software engineers in the future. In short, the industrial visit provided us with a thorough understanding of why innovations in ICT are significant due to their countless impacts on teaching and learning activities, especially in this massive technology-revolving era.
 
 ### 📌 [Poster on Industrial Talk 1 ( Charity Techworks SDN BHD )](https://github.com/puterinurulsyahirah/SECP1513/blob/main/INDUSTRIAL%20TALK%201.pdf)
