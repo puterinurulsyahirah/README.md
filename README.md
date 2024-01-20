@@ -155,6 +155,12 @@ During my visit to New Academia Learning Innovation ( NALI ) 2023, I interviewed
 
 ### 📌 [Poster on Industrial Talk 1 ( Charity Techworks SDN BHD )](https://github.com/puterinurulsyahirah/SECP1513/blob/main/INDUSTRIAL%20TALK%201.pdf)
 
+<div align="center">
+  <img height="350"msrc="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Charity%20Techworks.gif"/>
+</div>
+
+<br>
+
 During the industrial talk by Charity Techworks Sdn Bhd, I was exposed to various positions offered by the company in the technology field. The sharing session was given by six people, which included the Chief Technology Officer, Mr. Yee Soon Tuck, and five other workers from different positions in the company. From the talk, I learned that jobs in Information and Communication Technology ( ICT ) play a significant role in our lives, anytime and anywhere. This is because professionals in ICT are important in helping us easily adapt to changes due to the revolving technologies. By having them, we could maintain the latest technology in our everyday lives with a smoother and more efficient system. From the talk, I also gained lots of new knowledge about different positions in the technology field in a company, such as the Charity Techworks Sdn Bhd itself. For instance, I was exposed to jobs like Junior Android Developer, QA Testing Analyst, Junior UI / UX Designer, and Junior Web / API Developer. The talk shared details about each position, including its job scope, technology used, and skills needed to be a professional. During the talk, Mr. Yee also kept mentioning that "paper qualification doesn't mean that we know something." He insisted that we have to work hard to gather as much practical knowledge about technologies as possible. This is because theoretical knowledge doesn't mean anything if we don't know how to implement it in a real-life situation. Other speakers also encouraged us to work on our hard skills as well as our soft skills to secure a good career in this field. In short, the industrial talk provided us with a thorough understanding of different jobs related to ICT and why each of them is important in a company. The talk also provided us with a view on how each position works together as a team to perform a task and produce the best result out of it.
 
 ### 📌 [Video on Industrial Visit 2 ( UTM Digital )](https://www.youtube.com/watch?v=3FbHJD4fgBo)
