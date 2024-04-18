@@ -53,7 +53,7 @@
 
 📍 Bachelor of Computer Science ( Graphics & Multimedia Software ) With Honours
 
-📍 Currently in Semester 1 ( Year 1 )
+📍 Currently in Semester 2 ( Year 1 )
 
 📍 Address : Universiti Teknologi Malaysia, Jalan Iman, 81310, Skudai, Johor
 
@@ -108,7 +108,7 @@ Here are some of extracurricular activities that I joined throughout my studies 
 | KMJ Innovation Expo | Presenter | Silver Award | 18 Mar 2023 | [KIE 2023](https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/KMJ%20INNOVATION%20EXPO%202023.png) |
 | KMJava Programming Competition | Participant | Third Place | 23 Feb 2023 | - |
 | Pertandingan Roket Hidraulik 2023 | Participant | Second Place | 23 Feb 2023 | [Roket Hidraulik](https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/PERTANDINGAN%20ROKET%20HIDRAULIK%202023.png) |
-| International STEM & Innovation Coloquia Series-10 | Participant | - | 22 Feb 2023 | [Colloquia Series](https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/STEM%20%26%20INNOVATION%20COLLOQUIA%20SERIES-10.png) |
+| International STEM & Innovation Colloquia Series-10 | Participant | - | 22 Feb 2023 | [Colloquia Series](https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/STEM%20%26%20INNOVATION%20COLLOQUIA%20SERIES-10.png) |
 | Program Qiamullail | Crew of Documentation & Report | - | 15 Oct 2022 | - |
 
 <h3>SMK TAMAN NUSA DAMAI ( STAND )</h3>
